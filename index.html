@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Urban Patchwork</title>
+
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/animate.css">
+  <link rel="stylesheet" href="/css/leaflet.css">
+  <link rel="stylesheet" href="/css/map.css">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body ng-app="up" ng-controller="MapCtrl">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8">
+        <h1>Urban Patchwork</h1>
+      </div>
+      <div class="col-sm-4 pull-right">
+        <ul class="nav nav-pills main-nav">
+          <li>
+            <a href="/about">About</a>
+          </li>
+          <li>
+            <a href="/projects/add">Add a Project</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="map-controls pull-right">    
+      <button class="btn btn-default" ng-click="toggleCategories()">Categories</button>
+      <button class="btn btn-default" ng-click="toggleListView()">List View</button>
+    </div>
+
+    <div class="map-wrap">
+      <div class="categories-list map-overlay-control animated" ng-show="showCategories">
+        Categories List
+      </div>
+      <div id="map"></div>
+    </div>
+  </div>
+
+  <div class="container">
+    <footer>
+
+    </footer>
+  </div>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular-animate.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="/js/leaflet.js"></script>
+  <script src="/js/main-map.js"></script>
+</body>
+</html>

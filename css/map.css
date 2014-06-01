@@ -3,7 +3,45 @@ body, html {
     margin: 0;
 }
 
+
+.wrap {
+  margin: 0;
+  width: 100%;
+}
+
+.main-nav {
+  margin-top: 20px;
+}
+
+.map-wrap {
+  padding-top: 56px;
+}
+
+.categories-list {
+  width: 320px;
+  height: 480px;
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.8);
+  z-index: 10;
+}
+
+.map-overlay-control.ng-hide-remove {
+  -webkit-animation-name: slideInLeft;
+  animation-name: slideInLeft;
+}
+
+
+.map-overlay-control.ng-hide-add-active {
+  display:block !important;
+}
+
+
+.map-overlay-control.ng-hide-add {
+  -webkit-animation-name: slideOutLeft;
+  animation-name: slideOutLeft;
+}
+
 #map {
-    height: 100%;
-    width: 100%;
+  height: 480px;
+  width: 100%;
 }
