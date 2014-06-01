@@ -1966,91 +1966,145 @@
             "type": "Feature"
         },
         {
+            "bbox": [
+                -97.707474,
+                30.296825,
+                -97.707474,
+                30.296825
+            ],
             "geometry": {
                 "coordinates": [
-                    -105.9834476631037,
-                    3.442399734511329
+                    -97.707474,
+                    30.296825
                 ],
                 "type": "Point"
             },
             "properties": {
+                "Address": "2007 Mueller Central Dr, Austin, TX 78723",
                 "Category": "Farmer's Market",
                 "CategoryId": 7,
-                "Name": "Mueller Farmers' Market"
+                "Lat": 30.296825,
+                "Long": -97.707474,
+                "Name": "Mueller Farmers Market"
             },
             "type": "Feature"
         },
         {
+            "bbox": [
+                -97.557115,
+                30.340676,
+                -97.557115,
+                30.340676
+            ],
             "geometry": {
                 "coordinates": [
-                    -105.98344730142819,
-                    3.442399862432805
+                    -97.557115,
+                    30.340676
                 ],
                 "type": "Point"
             },
             "properties": {
+                "Address": "114 E Parsons Street, Manor, TX 78731",
                 "Category": "Farmer's Market",
                 "CategoryId": 7,
-                "Name": "The Gardener's Feast"
+                "Lat": 30.340676,
+                "Long": -97.557115,
+                "Name": "The Gardeners Feast"
             },
             "type": "Feature"
         },
         {
+            "bbox": [
+                -97.746928,
+                30.267405,
+                -97.746928,
+                30.267405
+            ],
             "geometry": {
                 "coordinates": [
-                    -105.9834477585648,
-                    3.442399659119829
+                    -97.746928,
+                    30.267405
                 ],
                 "type": "Point"
             },
             "properties": {
+                "Address": "422 Guadalupe St, Austin, TX 78701",
                 "Category": "Farmer's Market",
                 "CategoryId": 7,
-                "Name": "SFC Farmers' Market-Downtown"
+                "Lat": 30.267405,
+                "Long": -97.746928,
+                "Name": "SFC Farmers Market Downtown"
             },
             "type": "Feature"
         },
         {
+            "bbox": [
+                -97.727242,
+                30.261929,
+                -97.727242,
+                30.261929
+            ],
             "geometry": {
                 "coordinates": [
-                    -105.9834477082137,
-                    3.442399648668781
+                    -97.727242,
+                    30.261929
                 ],
                 "type": "Point"
             },
             "properties": {
+                "Address": "412 Comal St, Austin, TX 78702",
                 "Category": "Farmer's Market",
                 "CategoryId": 7,
+                "Lat": 30.261929,
+                "Long": -97.727242,
                 "Name": "HOPE Farmers Market"
             },
             "type": "Feature"
         },
         {
+            "bbox": [
+                -97.808758,
+                30.229686,
+                -97.808758,
+                30.229686
+            ],
             "geometry": {
                 "coordinates": [
-                    -105.9834479009678,
-                    3.442399560209451
+                    -97.808758,
+                    30.229686
                 ],
                 "type": "Point"
             },
             "properties": {
+                "Address": "3200 Jones Rd, Sunset Valley, TX 78745",
                 "Category": "Farmer's Market",
                 "CategoryId": 7,
-                "Name": "SFC Farmers Market at Sunset Valley"
+                "Lat": 30.229686,
+                "Long": -97.808758,
+                "Name": "SFC Farmers Market Sunset Valley"
             },
             "type": "Feature"
         },
         {
+            "bbox": [
+                -97.732895,
+                30.314155,
+                -97.732895,
+                30.314155
+            ],
             "geometry": {
                 "coordinates": [
-                    -105.98344773095353,
-                    3.442399775461912
+                    -97.732895,
+                    30.314155
                 ],
                 "type": "Point"
             },
             "properties": {
+                "Address": "4600 Guadalupe St, Austin, TX 78751",
                 "Category": "Farmer's Market",
                 "CategoryId": 7,
+                "Lat": 30.314155,
+                "Long": -97.732895,
                 "Name": "SFC Farmers Market The Triangle"
             },
             "type": "Feature"
