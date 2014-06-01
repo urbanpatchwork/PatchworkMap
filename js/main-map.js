@@ -7,6 +7,13 @@
   var PROJECTS_URL = '/mocks/projects.geojson';
   var PROJECT_PAGE_URL_TPL = "/project/{id}";
 
+  var CATEGORY_ICONS = {
+    1: {icon: 'fa-th', color: 'green'}, //community garden
+    3: {icon: 'fa-usd', color: 'blue'}, //market garden
+    9: {icon: 'fa-farm', color: 'darkgreen'}, //urban farm
+    10: {icon: 'fa-circle-o', color: 'orange'} //resources
+  };
+
   // *********************************************************
 
   L.Icon.Default.imagePath = "/css/images";
@@ -100,6 +107,20 @@
     return html.join('');
   };
 
+  var categoryIcon = function(catId) {
+    //get the icon or a default
+    var iconDesc = CATEGORY_ICONS[catId] || 
+      {icon: 'fa-circle', color: 'green'};
+
+    var icon = L.AwesomeMarkers.icon({
+      icon: iconDesc.icon,
+      markerColor: iconDesc.color,
+      prefix: 'fa'
+    });
+
+    return icon;
+  };
+
   var updateProjectFeatures = function(projectGeoJson) {
     projectsLayer.clearLayers();
 
@@ -107,7 +128,7 @@
       
       var latlng = [feat.geometry.coordinates[1], feat.geometry.coordinates[0]];
       var marker = L.marker(latlng, {
-          icon: L.MakiMarkers.icon({icon: "farm", color: "#5cb85c"})
+          icon: categoryIcon(feat.properties.CategoryId)
       });
 
       marker.bindPopup(projectPopup(feat.properties));
