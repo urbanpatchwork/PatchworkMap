@@ -29,7 +29,12 @@ body, html {
   height: 480px;
   position: absolute;
   background-color: rgba(255, 255, 255, 0.8);
-  z-index: 10;
+  z-index: 2000;
+}
+
+.categories-list .hide-btn {
+  float: right;
+  font-size: 16px;
 }
 
 .categories-list > h4 {
@@ -102,4 +107,17 @@ body, html {
 #map {
   height: 480px;
   width: 100%;
+}
+
+
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
+  background-color: rgba(181, 226, 140, 0.6);
+}
+
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+  background-color: rgba(110, 204, 57, 0.6);
 }

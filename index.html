@@ -52,6 +52,9 @@
 
     <div class="map-wrap">
       <div class="categories-list map-overlay-control animated" ng-show="showCategories">
+        <button class="hide-btn btn btn-link btn-sm" ng-click="showCategories=false">
+          <i class="fa fa-angle-double-left"></i>
+        </button>
         <h4>Project Categories</h4>
         <ul>
           <li ng-repeat="cat in categories" class="category-item">

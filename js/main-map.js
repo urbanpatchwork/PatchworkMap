@@ -26,8 +26,11 @@
 
 
   //variable to hold projects layer
-  var projectsLayer = L.geoJson().addTo(map);
-
+  var projectsLayer = new L.MarkerClusterGroup({
+    showCoverageOnHover: false,
+    maxClusterRadius: 60
+  });
+  projectsLayer.addTo(map);
 
   // *********************************************************
 
@@ -97,17 +100,21 @@
     return html.join('');
   };
 
-  var updateProjectFeatures = function(projectFeatures) {
+  var updateProjectFeatures = function(projectGeoJson) {
     projectsLayer.clearLayers();
-    projectsLayer.addData(projectFeatures);
-    var icon = L.MakiMarkers.icon({icon: "farm", color: "#5cb85c"});
-    projectsLayer.eachLayer(function (lyr) {
-      if (lyr.setIcon) {
-        lyr.setIcon(icon);
-      }
 
-      lyr.bindPopup(projectPopup(lyr.feature.properties));
+    _.each(projectGeoJson.features, function (feat) {
+      
+      var latlng = [feat.geometry.coordinates[1], feat.geometry.coordinates[0]];
+      var marker = L.marker(latlng, {
+          icon: L.MakiMarkers.icon({icon: "farm", color: "#5cb85c"})
+      });
+
+      marker.bindPopup(projectPopup(feat.properties));
+      projectsLayer.addLayer(marker);
     });
+
+      
     map.fitBounds(projectsLayer.getBounds());
   }
 
