@@ -8,10 +8,11 @@
   var PROJECT_PAGE_URL_TPL = "/project/{id}";
 
   var CATEGORY_ICONS = {
-    1: {icon: 'fa-th', color: 'green'}, //community garden
-    3: {icon: 'fa-usd', color: 'blue'}, //market garden
-    9: {icon: 'fa-farm', color: 'darkgreen'}, //urban farm
-    10: {icon: 'fa-circle-o', color: 'orange'} //resources
+    1: {icon: 'fa-th', color: 'green', type: 'fa'}, //community garden
+    3: {icon: 'fa-usd', color: 'blue', type: 'fa'}, //market garden
+    7: {icon: 'farm', color: '#3c9a5f', type: 'maki'}, //urban farm
+    9: {icon: 'farm', color: '#3c9a5f', type: 'maki'}, //urban farm
+    10: {icon: 'fa-circle-o', color: 'orange', type: 'fa'} //resources
   };
 
   // *********************************************************
@@ -122,13 +123,25 @@
   var categoryIcon = function(catId) {
     //get the icon or a default
     var iconDesc = CATEGORY_ICONS[catId] || 
-      {icon: 'fa-circle', color: 'green'};
+      {icon: 'fa-circle', color: 'green', type: 'fa'};
 
-    var icon = L.AwesomeMarkers.icon({
-      icon: iconDesc.icon,
-      markerColor: iconDesc.color,
-      prefix: 'fa'
-    });
+    var icon;
+
+    if (iconDesc.type === 'maki') {
+      icon = L.MakiMarkers.icon({
+        icon: iconDesc.icon,
+        color: iconDesc.color,
+        size: 'l'
+      });
+    }
+    else {
+      icon = L.AwesomeMarkers.icon({
+        icon: iconDesc.icon,
+        markerColor: iconDesc.color,
+        prefix: 'fa'
+      });
+    }
+
 
     return icon;
   };
