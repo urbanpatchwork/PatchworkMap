@@ -6,2061 +6,2109 @@
         "type": "name"
     },
     "features": [
-        [
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.719688,
-                        30.282124,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><span style=\"font-weight:bold\"></span><a href=\"http://communitygardensaustin.org/?page_id=62\" target=\"_blank\">View Garden Profile</a><br>2101 Alamo Street, 78722<br><br></div>",
-                    "Name": "Alamo Community Garden"
-                },
-                "type": "Feature"
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.719688,
+                    30.282124,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.719612,
-                        30.263756,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=26\" target=\"_blank\">View Garden Profile</a><br>2011 E. 9th Street 78702<br></div>",
-                    "Name": "Blackshear Neighborhood Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><span style=\"font-weight:bold\"></span><a href=\"http://communitygardensaustin.org/?page_id=62\" target=\"_blank\">View Garden Profile</a><br>2101 Alamo Street, 78722<br><br></div>",
+                "Name": "Alamo Community Garden"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.761421,
-                        30.281971,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<a href=\"http://communitygardensaustin.org/?page_id=72\" target=\"_blank\">View Garden Profile</a><br>Austin, TX 78703<a href=\"/maps?f=q&amp;hl=en&amp;geocode=&amp;q=1705+Waterston+Street+78703&amp;jsv=121&amp;sll=30.157559,-97.673521&amp;sspn=0.023043,0.032873&amp;ie=UTF8&amp;latlng=&amp;ei=L0qUSMuqN43QjgG05cyFBg&amp;sig2=bE2M2tBwwbfzdBl1OhR8Sg&amp;dtab=5\" target=\"_blank\"><br></a>",
-                    "Name": "Clarksville Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.719612,
+                    30.263756,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.771568,
-                        30.275742,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=70\" target=\"_blank\">View Garden Profile</a><br>300 \u00bd Atlanta 78703</div>",
-                    "Name": "Deep Eddy Community Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=26\" target=\"_blank\">View Garden Profile</a><br>2011 E. 9th Street 78702<br></div>",
+                "Name": "Blackshear Neighborhood Garden"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.742821,
-                        30.234877,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a target=\"_blank\">View garden profile</a>. 1314 East Oltorf Street, 78704.</div>",
-                    "Name": "Faith Church Community Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.761421,
+                    30.281971,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.735115,
-                        30.254128,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=194\" target=\"_blank\">View Garden Profile</a><br>35 Waller Street<br></div>",
-                    "Name": "Festival Beach Community Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<a href=\"http://communitygardensaustin.org/?page_id=72\" target=\"_blank\">View Garden Profile</a><br>Austin, TX 78703<a href=\"/maps?f=q&amp;hl=en&amp;geocode=&amp;q=1705+Waterston+Street+78703&amp;jsv=121&amp;sll=30.157559,-97.673521&amp;sspn=0.023043,0.032873&amp;ie=UTF8&amp;latlng=&amp;ei=L0qUSMuqN43QjgG05cyFBg&amp;sig2=bE2M2tBwwbfzdBl1OhR8Sg&amp;dtab=5\" target=\"_blank\"><br></a>",
+                "Name": "Clarksville Garden"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.680229,
-                        30.314547,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "2400 Northeast Drive<br>Austin, TX 78723<br><a href=\"http://maps.google.com/maps/place?ftid=0x8644c9e89a261efb:0x2be4480fb5348961&amp;q=2400+Northeast+Drive,+Austin,+TX&amp;gl=us&amp;hl=en&amp;authuser=0&amp;cad=src:ppiwlink&amp;ei=gCnNTpjkEM228gb51dyMBA&amp;dtab=5\" target=\"_blank\"><img src=\"http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=30.314546,-97.680230&amp;thumb=0\"></a>",
-                    "Name": "Garden of Blessings at Eastside Baptist Church Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.771568,
+                    30.275742,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.784576,
-                        30.233458,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<span>South Austin Senior Activity Center</span><br><span>3911 Manchaca Road</span><br><span>Austin, TX 78704</span>",
-                    "Name": "Garden of Eatin' "
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=70\" target=\"_blank\">View Garden Profile</a><br>300 \u00bd Atlanta 78703</div>",
+                "Name": "Deep Eddy Community Garden"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.685547,
-                        30.21903,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "&nbsp;2 Olmos Dr<br>Austin, TX 78744<br><a href=\"https://maps.google.com/maps/place?ftid=0x8644b6b1b32dfa9b:0xa1bdde8837ad998a&amp;q=2+Olmos+Drive,+Austin,+TX&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=6oOZUMWBCaX0wQGcioG4AQ&amp;sig2=6d7DrsOIKjZ_67BjqLimzQ&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=30.219030,-97.685545&amp;thumb=0\"></a>",
-                    "Name": "Genesis Gardens - Mobile Loaves and Fishes"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.742821,
+                    30.234877,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.720673,
-                        30.273508,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<a href=\"http://communitygardensaustin.org/?page_id=83\" target=\"_blank\">View garden profile</a><br>1190 Chicon Street, 78702<br>",
-                    "Name": "Good Soil Community Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a target=\"_blank\">View garden profile</a>. 1314 East Oltorf Street, 78704.</div>",
+                "Name": "Faith Church Community Garden"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.719635,
-                        30.271828,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "1801 Pennsylvania Ave<br>Austin, TX 78702<br><a href=\"http://maps.google.com/maps/place?ftid=0x8644b5c0abf0921b:0x27ba64b2cdfc7eff&amp;q=1801+Pennsylvania+Avenue,+Austin,+TX&amp;gl=us&amp;hl=en&amp;authuser=0&amp;cad=src:ppiwlink&amp;ei=IynNTteILcXZ8QbT0c3_BQ&amp;dtab=5\" target=\"_blank\"><img src=\"http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=30.271827,-97.719635&amp;thumb=0\"></a>",
-                    "Name": "Greater Mount Zion Baptist Church Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.735115,
+                    30.254128,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.764023,
-                        30.438065,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=559\" target=\"_blank\">View Garden Profile</a><br>7104 McNeil Dr, Austin, TX 78729<br></div>",
-                    "Name": "Grow Together at Gateway Church"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=194\" target=\"_blank\">View Garden Profile</a><br>35 Waller Street<br></div>",
+                "Name": "Festival Beach Community Garden"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.735085,
-                        30.491728,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "8005 Cornerwood Drive<br>Austin, TX 78717<br><a href=\"https://maps.google.com/maps/place?ftid=0x8644d27b725b4099:0x2f2644955a1548e0&amp;q=8005+Cornerwood+Dr,+Austin,+Williamson,+Texas+78717&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=03eZUPiYEMnSwQGStoDACw&amp;sig2=wmDB7DyvbMG87ke1WIMlvQ&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=30.491727,-97.735088&amp;thumb=0\"></a>",
-                    "Name": "Grow Together at Horizon Bay Retirement Center"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.680229,
+                    30.314547,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.693398,
-                        30.3207,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\">Refugee International Outreach Garden at <span>Capitol Village</span><br><span>6855 U.S. 290</span><br><span>Austin, TX 78723</span></div>",
-                    "Name": "Grow Together at Capitol Village Apartments"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "2400 Northeast Drive<br>Austin, TX 78723<br><a href=\"http://maps.google.com/maps/place?ftid=0x8644c9e89a261efb:0x2be4480fb5348961&amp;q=2400+Northeast+Drive,+Austin,+TX&amp;gl=us&amp;hl=en&amp;authuser=0&amp;cad=src:ppiwlink&amp;ei=gCnNTpjkEM228gb51dyMBA&amp;dtab=5\" target=\"_blank\"><img src=\"http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=30.314546,-97.680230&amp;thumb=0\"></a>",
+                "Name": "Garden of Blessings at Eastside Baptist Church Garden"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.705719,
-                        30.274994,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<font face=\"Arial\" size=\"2\"><span style=\"font-size:10pt;font-family:Arial\"><a href=\"http://communitygardensaustin.org/?page_id=88\" target=\"_blank\">View Garden Profile</a><br>2606 Sol Wilson</span></font>",
-                    "Name": "Homewood Heights Community Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.784576,
+                    30.233458,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.721848,
-                        30.307243,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=113\" target=\"_blank\">View Garden Profile</a><br>610 E 45th St</div>",
-                    "Name": "Hyde Park Community Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<span>South Austin Senior Activity Center</span><br><span>3911 Manchaca Road</span><br><span>Austin, TX 78704</span>",
+                "Name": "Garden of Eatin' "
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.78511,
-                        30.202368,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=550\" target=\"_blank\">View Garden Profile</a><br>6114 South 1st Street</div>",
-                    "Name": "LifeWorks South Community Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.685547,
+                    30.21903,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.831551,
-                        30.140509,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=547\" target=\"_blank\">View garden profile</a><br>1011 Farm to Market Road 1626, Manchaca, TX 78652<br><br></div>",
-                    "Name": "Manchaca United Methodist Church Community Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "&nbsp;2 Olmos Dr<br>Austin, TX 78744<br><a href=\"https://maps.google.com/maps/place?ftid=0x8644b6b1b32dfa9b:0xa1bdde8837ad998a&amp;q=2+Olmos+Drive,+Austin,+TX&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=6oOZUMWBCaX0wQGcioG4AQ&amp;sig2=6d7DrsOIKjZ_67BjqLimzQ&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=30.219030,-97.685545&amp;thumb=0\"></a>",
+                "Name": "Genesis Gardens - Mobile Loaves and Fishes"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.708923,
-                        30.278582,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=496\" target=\"_blank\">View Garden Profile </a><br><a href=\"http://groups.google.com/group/mlk-jr-community-garden\" target=\"_blank\">Join Google Group</a><br>MLK MetroRail Station, MLK &amp; Airport Blvd.</div>",
-                    "Name": "St. David's Foundation Community Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.720673,
+                    30.273508,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.701347,
-                        30.22916,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=77\" target=\"_blank\">View garden profile</a><br>1416 Montopolis Drive (78741)<br></div>",
-                    "Name": "Montopolis Neighborhood Center Community Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<a href=\"http://communitygardensaustin.org/?page_id=83\" target=\"_blank\">View garden profile</a><br>1190 Chicon Street, 78702<br>",
+                "Name": "Good Soil Community Garden"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.697838,
-                        30.288109,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=722\" target=\"_blank\">View Garden Profile</a><br>2215 E M Franklin Ave, 78702<br></div>",
-                    "Name": "New Day Community Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.719635,
+                    30.271828,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.734749,
-                        30.233753,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<a href=\"http://communitygardensaustin.org/?page_id=552\" target=\"_blank\">View Garden Profile</a><br>2105 Parker Ln, 78741<br>",
-                    "Name": "Parker Lane United Methodist Church Community Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "1801 Pennsylvania Ave<br>Austin, TX 78702<br><a href=\"http://maps.google.com/maps/place?ftid=0x8644b5c0abf0921b:0x27ba64b2cdfc7eff&amp;q=1801+Pennsylvania+Avenue,+Austin,+TX&amp;gl=us&amp;hl=en&amp;authuser=0&amp;cad=src:ppiwlink&amp;ei=IynNTteILcXZ8QbT0c3_BQ&amp;dtab=5\" target=\"_blank\"><img src=\"http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=30.271827,-97.719635&amp;thumb=0\"></a>",
+                "Name": "Greater Mount Zion Baptist Church Garden"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.709381,
-                        30.296381,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "4200 Brookview Rd, Austin, TX 78722<br><a href=\"http://maps.google.com/maps/place?ftid=0x8644b5f7664d015b:0xb2c44e0183b553e&amp;q=4200+Brookview+Rd.&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=5iV3T_quBo_OyQWkhPy7Ag&amp;sig2=2oYLYa6X01hRXVt7CQumwA&amp;dtab=5\" target=\"_blank\"></a>",
-                    "Name": "Patterson Park Community Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.764023,
+                    30.438065,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.806366,
-                        30.209679,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<span>Cunningham Elementary School</span><br>2200 Berkeley Ave.<br><span>Austin, TX 78745</span>",
-                    "Name": "PEAS at Cunningham Elementary School"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=559\" target=\"_blank\">View Garden Profile</a><br>7104 McNeil Dr, Austin, TX 78729<br></div>",
+                "Name": "Grow Together at Gateway Church"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.67907,
-                        30.305958,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "Sweeney Circle (off of Sweeney Lane and Manor Rd.)<br>Austin, TX 78723<br><a href=\"http://maps.google.com/maps/place?ftid=0x8644c9e0fdab076d:0x4aac50fe205491bf&amp;q=sweeney+circle+and+sweeney+lane&amp;gl=us&amp;hl=en&amp;authuser=0&amp;cad=src:ppiwlink&amp;ei=_ybNTsTPA4PmyQTNwpHnBg&amp;dtab=5\" target=\"_blank\"><img src=\"http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=30.305958,-97.679070&amp;thumb=0\"></a>",
-                    "Name": "Pecan Springs Commons Community Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.735085,
+                    30.491728,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.68943,
-                        30.324953,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<a href=\"http://communitygardensaustin.org/?page_id=341\" target=\"_blank\">View Garden Profile</a><br>7104 Berkman Dr, 78752<br>",
-                    "Name": "Reagan Community Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "8005 Cornerwood Drive<br>Austin, TX 78717<br><a href=\"https://maps.google.com/maps/place?ftid=0x8644d27b725b4099:0x2f2644955a1548e0&amp;q=8005+Cornerwood+Dr,+Austin,+Williamson,+Texas+78717&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=03eZUPiYEMnSwQGStoDACw&amp;sig2=wmDB7DyvbMG87ke1WIMlvQ&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=30.491727,-97.735088&amp;thumb=0\"></a>",
+                "Name": "Grow Together at Horizon Bay Retirement Center"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.792618,
-                        30.275072,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "Rollingwood Park, West Lake Hills, TX 78746<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=30.275072,-97.792614&amp;thumb=0\">",
-                    "Name": "Rollingwood Community Education Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.693398,
+                    30.3207,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.675003,
-                        30.43659,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\">14311 Wells Port Dr., 78728</div>",
-                    "Name": "St. Andrews Presbyterian Church Community Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\">Refugee International Outreach Garden at <span>Capitol Village</span><br><span>6855 U.S. 290</span><br><span>Austin, TX 78723</span></div>",
+                "Name": "Grow Together at Capitol Village Apartments"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.735405,
-                        30.317766,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=66\" target=\"_blank\">View garden profile</a><br>4814 Sunshine Drive 78756</div>",
-                    "Name": "Sunshine Community Gardens"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.705719,
+                    30.274994,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.809914,
-                        30.22843,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=556\" target=\"_blank\">View Garden Profile</a><br>Sunset Valley City Hall<br>3205 Jones Rd, 78745<br></div>",
-                    "Name": "Sunset Valley Community Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<font face=\"Arial\" size=\"2\"><span style=\"font-size:10pt;font-family:Arial\"><a href=\"http://communitygardensaustin.org/?page_id=88\" target=\"_blank\">View Garden Profile</a><br>2606 Sol Wilson</span></font>",
+                "Name": "Homewood Heights Community Garden"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.643578,
-                        30.497158,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=457\" target=\"_blank\">View Garden Profile</a><br><a href=\"http://www.neighborhoodharvestproject.org/unity-park-cg.html\" target=\"_blank\">View Website</a><br><br>2746 Gattis School Rd<br>Round Rock, TX 78665<br></div>",
-                    "Name": "Unity Park Community Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.721848,
+                    30.307243,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.725006,
-                        30.281904,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "2108 Concho St<br>Austin, TX 78722<br><br>",
-                    "Name": "UT Concho Community Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=113\" target=\"_blank\">View Garden Profile</a><br>610 E 45th St</div>",
+                "Name": "Hyde Park Community Garden"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.75177,
-                        30.273109,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "",
-                    "Name": "WFM Deep Roots Garden"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.78511,
+                    30.202368,
+                    0.0
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.690544,
-                        30.311455,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=94\" target=\"_blank\">View garden profile</a><br>5801 Westminster Dr, 78723<br></div>",
-                    "Name": "Windsor Park Community Garden"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=550\" target=\"_blank\">View Garden Profile</a><br>6114 South 1st Street</div>",
+                "Name": "LifeWorks South Community Garden"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -97.684464,
-                        30.278612,
-                        0.0
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Community Garden",
-                    "CategoryId": 1,
-                    "Description": "<a href=\"http://communitygardensaustin.org/?page_id=740\" target=\"_blank\">View Garden Profile</a> (not just a community bike shop)<br>1216 Webberville Road, 78723<br><br>",
-                    "Name": "Yellow Bike Project Community Garden"
-                },
-                "type": "Feature"
-            }
-        ],
-        [
-            {
-                "bbox": [
-                    -97.71625100581001,
-                    30.321305892253314,
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.831551,
+                    30.140509,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=547\" target=\"_blank\">View garden profile</a><br>1011 Farm to Market Road 1626, Manchaca, TX 78652<br><br></div>",
+                "Name": "Manchaca United Methodist Church Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.708923,
+                    30.278582,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=496\" target=\"_blank\">View Garden Profile </a><br><a href=\"http://groups.google.com/group/mlk-jr-community-garden\" target=\"_blank\">Join Google Group</a><br>MLK MetroRail Station, MLK &amp; Airport Blvd.</div>",
+                "Name": "St. David's Foundation Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.701347,
+                    30.22916,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=77\" target=\"_blank\">View garden profile</a><br>1416 Montopolis Drive (78741)<br></div>",
+                "Name": "Montopolis Neighborhood Center Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.697838,
+                    30.288109,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=722\" target=\"_blank\">View Garden Profile</a><br>2215 E M Franklin Ave, 78702<br></div>",
+                "Name": "New Day Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.734749,
+                    30.233753,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<a href=\"http://communitygardensaustin.org/?page_id=552\" target=\"_blank\">View Garden Profile</a><br>2105 Parker Ln, 78741<br>",
+                "Name": "Parker Lane United Methodist Church Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.709381,
+                    30.296381,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "4200 Brookview Rd, Austin, TX 78722<br><a href=\"http://maps.google.com/maps/place?ftid=0x8644b5f7664d015b:0xb2c44e0183b553e&amp;q=4200+Brookview+Rd.&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=5iV3T_quBo_OyQWkhPy7Ag&amp;sig2=2oYLYa6X01hRXVt7CQumwA&amp;dtab=5\" target=\"_blank\"></a>",
+                "Name": "Patterson Park Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.806366,
+                    30.209679,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<span>Cunningham Elementary School</span><br>2200 Berkeley Ave.<br><span>Austin, TX 78745</span>",
+                "Name": "PEAS at Cunningham Elementary School"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.67907,
+                    30.305958,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "Sweeney Circle (off of Sweeney Lane and Manor Rd.)<br>Austin, TX 78723<br><a href=\"http://maps.google.com/maps/place?ftid=0x8644c9e0fdab076d:0x4aac50fe205491bf&amp;q=sweeney+circle+and+sweeney+lane&amp;gl=us&amp;hl=en&amp;authuser=0&amp;cad=src:ppiwlink&amp;ei=_ybNTsTPA4PmyQTNwpHnBg&amp;dtab=5\" target=\"_blank\"><img src=\"http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=30.305958,-97.679070&amp;thumb=0\"></a>",
+                "Name": "Pecan Springs Commons Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.68943,
+                    30.324953,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<a href=\"http://communitygardensaustin.org/?page_id=341\" target=\"_blank\">View Garden Profile</a><br>7104 Berkman Dr, 78752<br>",
+                "Name": "Reagan Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.792618,
+                    30.275072,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "Rollingwood Park, West Lake Hills, TX 78746<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=30.275072,-97.792614&amp;thumb=0\">",
+                "Name": "Rollingwood Community Education Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.675003,
+                    30.43659,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\">14311 Wells Port Dr., 78728</div>",
+                "Name": "St. Andrews Presbyterian Church Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.735405,
+                    30.317766,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=66\" target=\"_blank\">View garden profile</a><br>4814 Sunshine Drive 78756</div>",
+                "Name": "Sunshine Community Gardens"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.809914,
+                    30.22843,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=556\" target=\"_blank\">View Garden Profile</a><br>Sunset Valley City Hall<br>3205 Jones Rd, 78745<br></div>",
+                "Name": "Sunset Valley Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.643578,
+                    30.497158,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=457\" target=\"_blank\">View Garden Profile</a><br><a href=\"http://www.neighborhoodharvestproject.org/unity-park-cg.html\" target=\"_blank\">View Website</a><br><br>2746 Gattis School Rd<br>Round Rock, TX 78665<br></div>",
+                "Name": "Unity Park Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.725006,
+                    30.281904,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "2108 Concho St<br>Austin, TX 78722<br><br>",
+                "Name": "UT Concho Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.75177,
+                    30.273109,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "",
+                "Name": "WFM Deep Roots Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.690544,
+                    30.311455,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<div dir=\"ltr\"><a href=\"http://communitygardensaustin.org/?page_id=94\" target=\"_blank\">View garden profile</a><br>5801 Westminster Dr, 78723<br></div>",
+                "Name": "Windsor Park Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.684464,
+                    30.278612,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Community Garden",
+                "CategoryId": 1,
+                "Description": "<a href=\"http://communitygardensaustin.org/?page_id=740\" target=\"_blank\">View Garden Profile</a> (not just a community bike shop)<br>1216 Webberville Road, 78723<br><br>",
+                "Name": "Yellow Bike Project Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.71625100581001,
+                30.321305892253314,
+                -97.71625100581001,
+                30.321305892253314
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.71625100581001,
                     30.321305892253314
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.71625100581001,
-                        30.321305892253314
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Urban Patchwork can use food scraps to feed chickens and compost piles<BR><BR>Email info@urbanpatchwork.com for hours",
-                    "Name": "Urban Patchwork 5703 Duval"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.7345470047703,
-                    30.329315878284415,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Urban Patchwork can use food scraps to feed chickens and compost piles<BR><BR>Email info@urbanpatchwork.com for hours",
+                "Name": "Urban Patchwork 5703 Duval"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.7345470047703,
+                30.329315878284415,
+                -97.7345470047703,
+                30.329315878284415
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.7345470047703,
                     30.329315878284415
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.7345470047703,
-                        30.329315878284415
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Food Is Free can use food scraps to feed chickens and compost piles<BR><BR>Email info@foodisfreeproject.org for hours and details",
-                    "Name": "Food Is Free 5608 Joe Sayers"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.73725700710655,
-                    30.21348688731748,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Food Is Free can use food scraps to feed chickens and compost piles<BR><BR>Email info@foodisfreeproject.org for hours and details",
+                "Name": "Food Is Free 5608 Joe Sayers"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.73725700710655,
+                30.21348688731748,
+                -97.73725700710655,
+                30.21348688731748
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.73725700710655,
                     30.21348688731748
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.73725700710655,
-                        30.21348688731748
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "<a href=\"http://www.austintexas.gov/department/resource-recovery-center\">Austin Resource and Recovery</a><BR>Free wood chips/mulch and tumbled glass mulch available M-F 8 am - 4:30 pm",
-                    "Name": "Wood chips - mulch"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.72337500426478,
-                    30.295643875583405,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "<a href=\"http://www.austintexas.gov/department/resource-recovery-center\">Austin Resource and Recovery</a><BR>Free wood chips/mulch and tumbled glass mulch available M-F 8 am - 4:30 pm",
+                "Name": "Wood chips - mulch"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.72337500426478,
+                30.295643875583405,
+                -97.72337500426478,
+                30.295643875583405
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.72337500426478,
                     30.295643875583405
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.72337500426478,
-                        30.295643875583405
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Wood shop produces bags of untreated wood chips/sawdust.\u00a0 Great for animal bedding, mulch, and composting.\u00a0\u00a0 Email John@<a title=\"mailto:john@redriverrestorations.com\" href=\"mailto:john@redriverrestorations.com\" target=\"_blank\">redriverrestorations.co",
-                    "Name": "Sawdust/wood chips"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.779983006204,
-                    30.396644876528708,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Wood shop produces bags of untreated wood chips/sawdust.\u00a0 Great for animal bedding, mulch, and composting.\u00a0\u00a0 Email John@<a title=\"mailto:john@redriverrestorations.com\" href=\"mailto:john@redriverrestorations.com\" target=\"_blank\">redriverrestorations.co",
+                "Name": "Sawdust/wood chips"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.779983006204,
+                30.396644876528708,
+                -97.779983006204,
+                30.396644876528708
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.779983006204,
                     30.396644876528708
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.779983006204,
-                        30.396644876528708
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "FREE HORSE MANURE - bring containers &amp; shovel it yourself ANYTIME during daylight or they will fill your truck/trailer with our tractor for a $10 loading charge. Call Mike at 512-497-3200 to set up time if you need weekend loading. If you come Mon-Th",
-                    "Name": "Horse manure"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.76008000502893,
-                    30.22491489063834,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "FREE HORSE MANURE - bring containers &amp; shovel it yourself ANYTIME during daylight or they will fill your truck/trailer with our tractor for a $10 loading charge. Call Mike at 512-497-3200 to set up time if you need weekend loading. If you come Mon-Th",
+                "Name": "Horse manure"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.76008000502893,
+                30.22491489063834,
+                -97.76008000502893,
+                30.22491489063834
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.76008000502893,
                     30.22491489063834
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.76008000502893,
-                        30.22491489063834
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "New Earth Kitchen<BR><BR>3708 Woodbury Dr, 78704<BR><BR>Organic fruit and veggie scraps, 2-5 buckets available once a week.\u00a0 Email Compost Coalition\u00a0 to get on the calendar",
-                    "Name": "New Earth Kitchen"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.73941900679993,
-                    30.327674885384447,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "New Earth Kitchen<BR><BR>3708 Woodbury Dr, 78704<BR><BR>Organic fruit and veggie scraps, 2-5 buckets available once a week.\u00a0 Email Compost Coalition\u00a0 to get on the calendar",
+                "Name": "New Earth Kitchen"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.73941900679993,
+                30.327674885384447,
+                -97.73941900679993,
+                30.327674885384447
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.73941900679993,
                     30.327674885384447
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.73941900679993,
-                        30.327674885384447
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Buckets of coffee grounds, filters and tea available during business hours<BR><div><strong>Mon - Thu</strong><BR>Open 6:00 AM<BR>Close 10:00 PM</div><BR><div><strong>Fri</strong><BR>Open 6:00 AM<BR>Close 11:00 PM</div><BR><div><strong>Sat</strong><BR>Ope",
-                    "Name": "Monkey Nest"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.73958800270412,
-                    30.32852588579604,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Buckets of coffee grounds, filters and tea available during business hours<BR><div><strong>Mon - Thu</strong><BR>Open 6:00 AM<BR>Close 10:00 PM</div><BR><div><strong>Fri</strong><BR>Open 6:00 AM<BR>Close 11:00 PM</div><BR><div><strong>Sat</strong><BR>Ope",
+                "Name": "Monkey Nest"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.73958800270412,
+                30.32852588579604,
+                -97.73958800270412,
+                30.32852588579604
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.73958800270412,
                     30.32852588579604
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.73958800270412,
-                        30.32852588579604
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Food and paper.\u00a0 Two to four buckets daily.\u00a0 Email info@compostcoalition.com for more information",
-                    "Name": "ThunderCloud"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.7353260058104,
-                    30.317134867946173,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Food and paper.\u00a0 Two to four buckets daily.\u00a0 Email info@compostcoalition.com for more information",
+                "Name": "ThunderCloud"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.7353260058104,
+                30.317134867946173,
+                -97.7353260058104,
+                30.317134867946173
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.7353260058104,
                     30.317134867946173
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.7353260058104,
-                        30.317134867946173
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Sunshine Community Gardens accepts food scraps and coffee grounds.\u00a0 Look for the sign at the southeast of the property<BR>Open dusk to dawn<BR>Please NO meat or dairy products, spoiled prepared foods or any kind of \"compostable\" flat ware or dishes",
-                    "Name": "Sunshine Gardens"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.59045200509667,
-                    30.25058087336561,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Sunshine Community Gardens accepts food scraps and coffee grounds.\u00a0 Look for the sign at the southeast of the property<BR>Open dusk to dawn<BR>Please NO meat or dairy products, spoiled prepared foods or any kind of \"compostable\" flat ware or dishes",
+                "Name": "Sunshine Gardens"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.59045200509667,
+                30.25058087336561,
+                -97.59045200509667,
+                30.25058087336561
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.59045200509667,
                     30.25058087336561
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.59045200509667,
-                        30.25058087336561
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "13602 Fm 969, <a href=\"http://www.mapquest.com/maps?city=Austin&amp;state=TX\" target=\"_NEW\">Austin</a>, <a href=\"http://www.mapquest.com/maps?state=TX\" target=\"_NEW\">TX</a><a href=\"http://www.mapquest.com/maps?zipcode=78724\" target=\"_NEW\"> 78724</a><BR><",
-                    "Name": "Organics by Gosh"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.7423900080991,
-                    30.233653891789746,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "13602 Fm 969, <a href=\"http://www.mapquest.com/maps?city=Austin&amp;state=TX\" target=\"_NEW\">Austin</a>, <a href=\"http://www.mapquest.com/maps?state=TX\" target=\"_NEW\">TX</a><a href=\"http://www.mapquest.com/maps?zipcode=78724\" target=\"_NEW\"> 78724</a><BR><",
+                "Name": "Organics by Gosh"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.7423900080991,
+                30.233653891789746,
+                -97.7423900080991,
+                30.233653891789746
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.7423900080991,
                     30.233653891789746
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.7423900080991,
-                        30.233653891789746
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Starbucks - I35 at Oltorf (Southwest corner)<BR>Look for bucket inside north door",
-                    "Name": "Starbucks - I35/Oltorf"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.75730600724052,
-                    30.220552870725147,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Starbucks - I35 at Oltorf (Southwest corner)<BR>Look for bucket inside north door",
+                "Name": "Starbucks - I35/Oltorf"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.75730600724052,
+                30.220552870725147,
+                -97.75730600724052,
+                30.220552870725147
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.75730600724052,
                     30.220552870725147
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.75730600724052,
-                        30.220552870725147
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Starbucks on the north/eastbound side of Ben White/Hwy 71<BR>Look for bucket near east door",
-                    "Name": "Starbucks - Ben White(71) near 35"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.71983400558614,
-                    30.313862879788523,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Starbucks on the north/eastbound side of Ben White/Hwy 71<BR>Look for bucket near east door",
+                "Name": "Starbucks - Ben White(71) near 35"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.71983400558614,
+                30.313862879788523,
+                -97.71983400558614,
+                30.313862879788523
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.71983400558614,
                     30.313862879788523
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.71983400558614,
-                        30.313862879788523
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "<p style=\"text-align: left;\" align=\"center\">Flightpath Coffee gives all of their grounds to Sunshine Community Gardens every week! \u00a0We love these type of partnerships.</p><BR><p style=\"text-align: left;\" align=\"center\">If you're looking for nearby groun",
-                    "Name": "Flightpath Coffee"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.68702800816281,
-                    30.32339288633125,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "<p style=\"text-align: left;\" align=\"center\">Flightpath Coffee gives all of their grounds to Sunshine Community Gardens every week! \u00a0We love these type of partnerships.</p><BR><p style=\"text-align: left;\" align=\"center\">If you're looking for nearby groun",
+                "Name": "Flightpath Coffee"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.68702800816281,
+                30.32339288633125,
+                -97.68702800816281,
+                30.32339288633125
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.68702800816281,
                     30.32339288633125
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.68702800816281,
-                        30.32339288633125
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Reagan Community Garden takes fruit and vegetable scraps/plants (healthy- no disease); bread; any plant type of material kitchen or otherwise (healthy); and egg shells. Would also love to have your leaves, shredded paper or newspapers.<BR><BR>Do NOT take",
-                    "Name": "Reagan Community Garden"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.71997900462803,
-                    30.266975879234206,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Reagan Community Garden takes fruit and vegetable scraps/plants (healthy- no disease); bread; any plant type of material kitchen or otherwise (healthy); and egg shells. Would also love to have your leaves, shredded paper or newspapers.<BR><BR>Do NOT take",
+                "Name": "Reagan Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.71997900462803,
+                30.266975879234206,
+                -97.71997900462803,
+                30.266975879234206
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.71997900462803,
                     30.266975879234206
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.71997900462803,
-                        30.266975879234206
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "East Village Cafe, 1111 Chicon Street, eastvillagecafe.com<BR>7 days a week - 7:00am-9:00pm<BR>Ask for grounds at the counter.",
-                    "Name": "East Village Cafe"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.71975800692857,
-                    30.282109874414378,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "East Village Cafe, 1111 Chicon Street, eastvillagecafe.com<BR>7 days a week - 7:00am-9:00pm<BR>Ask for grounds at the counter.",
+                "Name": "East Village Cafe"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.71975800692857,
+                30.282109874414378,
+                -97.71975800692857,
+                30.282109874414378
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.71975800692857,
                     30.282109874414378
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.71975800692857,
-                        30.282109874414378
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Alamo Community Garden, northeast corner of Alamo and 21st<BR><BR>Drop off coffee grounds 24/7 to help improve the garden soil",
-                    "Name": "Alamo Community Garden"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.73356101136176,
-                    30.314330885251614,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Alamo Community Garden, northeast corner of Alamo and 21st<BR><BR>Drop off coffee grounds 24/7 to help improve the garden soil",
+                "Name": "Alamo Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.73356101136176,
+                30.314330885251614,
+                -97.73356101136176,
+                30.314330885251614
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.73356101136176,
                     30.314330885251614
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.73356101136176,
-                        30.314330885251614
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Drop off all your compostable materials including wood and paper while you shop at the Farmers Market at the Triangle each Wednesday 4 - 7.\u00a0 Thanks to Break It Down for collecting!",
-                    "Name": "Farmers Market at the Triangle"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.80750300540265,
-                    30.23092787512192,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Drop off all your compostable materials including wood and paper while you shop at the Farmers Market at the Triangle each Wednesday 4 - 7.\u00a0 Thanks to Break It Down for collecting!",
+                "Name": "Farmers Market at the Triangle"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.80750300540265,
+                30.23092787512192,
+                -97.80750300540265,
+                30.23092787512192
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.80750300540265,
                     30.23092787512192
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.80750300540265,
-                        30.23092787512192
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Drop off all of your compostable materials while you shop at the Farmers Market at 3200 Jones Road at the Toney Burger Center each Saturday 9am - 1pm.\u00a0 Materials go back to the local farmers!",
-                    "Name": "Farmers Market at Sunset Valley"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.74733100631174,
-                    30.26779888044191,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Drop off all of your compostable materials while you shop at the Farmers Market at 3200 Jones Road at the Toney Burger Center each Saturday 9am - 1pm.\u00a0 Materials go back to the local farmers!",
+                "Name": "Farmers Market at Sunset Valley"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.74733100631174,
+                30.26779888044191,
+                -97.74733100631174,
+                30.26779888044191
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.74733100631174,
                     30.26779888044191
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.74733100631174,
-                        30.26779888044191
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Drop off your compostable materials when you shop the SFC Downtown Farmers Market at 4th and Guadalupe each Saturday from 9am to 1 pm.\u00a0 Thanks to Break It Down for collecting!",
-                    "Name": "Farmers Market Downtown"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.70832500975177,
-                    30.281564868467026,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Drop off your compostable materials when you shop the SFC Downtown Farmers Market at 4th and Guadalupe each Saturday from 9am to 1 pm.\u00a0 Thanks to Break It Down for collecting!",
+                "Name": "Farmers Market Downtown"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.70832500975177,
+                30.281564868467026,
+                -97.70832500975177,
+                30.281564868467026
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.70832500975177,
                     30.281564868467026
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.70832500975177,
-                        30.281564868467026
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Located just east of the MLK Rail Station, (Enter gravel road from MLK\u00a0 Boulevard immediately east of the tracks)<BR><BR>Accepts fruit and vegetable scraps, egg shells, coffee grounds, clean leaves and clean mulch. Please no meat, dairy, bermuda grass o",
-                    "Name": "St Davids Foundation Community Garden"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.67819300390272,
-                    30.2582178834791,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Located just east of the MLK Rail Station, (Enter gravel road from MLK\u00a0 Boulevard immediately east of the tracks)<BR><BR>Accepts fruit and vegetable scraps, egg shells, coffee grounds, clean leaves and clean mulch. Please no meat, dairy, bermuda grass o",
+                "Name": "St Davids Foundation Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.67819300390272,
+                30.2582178834791,
+                -97.67819300390272,
+                30.2582178834791
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.67819300390272,
                     30.2582178834791
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.67819300390272,
-                        30.2582178834791
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Accepting coffee grounds, leaves and other plant material only.\u00a0 No food please.<BR><BR>Compost bins are at the southeast of the building.",
-                    "Name": "AgriLife Extension Demo Garden"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.72117400513464,
-                    30.279795875496173,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Accepting coffee grounds, leaves and other plant material only.\u00a0 No food please.<BR><BR>Compost bins are at the southeast of the building.",
+                "Name": "AgriLife Extension Demo Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.72117400513464,
+                30.279795875496173,
+                -97.72117400513464,
+                30.279795875496173
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.72117400513464,
                     30.279795875496173
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.72117400513464,
-                        30.279795875496173
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Open 7:00am - midnight. \u00a0Ask about grounds at the register!",
-                    "Name": "Wet Whistle"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.76166301267305,
-                    30.247878880677764,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Open 7:00am - midnight. \u00a0Ask about grounds at the register!",
+                "Name": "Wet Whistle"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.76166301267305,
+                30.247878880677764,
+                -97.76166301267305,
+                30.247878880677764
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.76166301267305,
                     30.247878880677764
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.76166301267305,
-                        30.247878880677764
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Thai Fresh at 909 Mary Street West is open 11am-9pm<BR>Stop by for tasty treats and grounds.  Bring a clean bucket to replace any you take.",
-                    "Name": "Thai Fresh"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.72215601071528,
-                    30.300461875983768,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Thai Fresh at 909 Mary Street West is open 11am-9pm<BR>Stop by for tasty treats and grounds.  Bring a clean bucket to replace any you take.",
+                "Name": "Thai Fresh"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.72215601071528,
+                30.300461875983768,
+                -97.72215601071528,
+                30.300461875983768
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.72215601071528,
                     30.300461875983768
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.72215601071528,
-                        30.300461875983768
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Coffee Bean &amp; Tea Leaf - 4100 Red River<BR>Open 5:30am-10pm M-F, 7am-9pm S-S<BR>Look for bagged grounds to the left of the front door. Also offer buckets of grounds. Bring a clean Ground to Ground bucket to swap for one full of coffee grounds",
-                    "Name": "Coffee Bean and Tea Leaf - 4100 Red River"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.68229900457719,
-                    30.303736876878364,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Coffee Bean &amp; Tea Leaf - 4100 Red River<BR>Open 5:30am-10pm M-F, 7am-9pm S-S<BR>Look for bagged grounds to the left of the front door. Also offer buckets of grounds. Bring a clean Ground to Ground bucket to swap for one full of coffee grounds",
+                "Name": "Coffee Bean and Tea Leaf - 4100 Red River"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.68229900457719,
+                30.303736876878364,
+                -97.68229900457719,
+                30.303736876878364
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.68229900457719,
                     30.303736876878364
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.68229900457719,
-                        30.303736876878364
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "5604 Manor Road<BR><BR>Accepts all food scraps except meet, dairy, and processed foods.  Also accept leaves, grass clippings, and all plant material, except diseased plant material, invasive weeds, and bermuda grass.<BR><BR>Open on Saturdays 9-12<BR><BR>",
-                    "Name": "5604 Manor Community Garden"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.71963400958123,
-                    30.263732875683754,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "5604 Manor Road<BR><BR>Accepts all food scraps except meet, dairy, and processed foods.  Also accept leaves, grass clippings, and all plant material, except diseased plant material, invasive weeds, and bermuda grass.<BR><BR>Open on Saturdays 9-12<BR><BR>",
+                "Name": "5604 Manor Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.71963400958123,
+                30.263732875683754,
+                -97.71963400958123,
+                30.263732875683754
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.71963400958123,
                     30.263732875683754
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.71963400958123,
-                        30.263732875683754
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Blackshear Neighborhood Garden, at 2011 East 9th, has compost bins and would love coffee grounds and any other compostables (food scrap, leaves...)\u00a0 http://communitygardensaustin.org/?page_id=26",
-                    "Name": "Blackshear Neighborhood Garden"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.67497900902164,
-                    30.436181885163165,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Blackshear Neighborhood Garden, at 2011 East 9th, has compost bins and would love coffee grounds and any other compostables (food scrap, leaves...)\u00a0 http://communitygardensaustin.org/?page_id=26",
+                "Name": "Blackshear Neighborhood Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.67497900902164,
+                30.436181885163165,
+                -97.67497900902164,
+                30.436181885163165
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.67497900902164,
                     30.436181885163165
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.67497900902164,
-                        30.436181885163165
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "<div>Food Pantry Gardens at St Andrews Presbyterian church, 14311 Wells Port Drive,</div><BR><div></div><BR><div>Accepts coffee grounds, egg shells (not eggs), yard clippings, leaves, paper shredded if possible, fruits and vegetables.</div><BR>No meat, d",
-                    "Name": "Food Pantry Gardens at St Andrews"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.7570140112324,
-                    30.35575389318791,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "<div>Food Pantry Gardens at St Andrews Presbyterian church, 14311 Wells Port Drive,</div><BR><div></div><BR><div>Accepts coffee grounds, egg shells (not eggs), yard clippings, leaves, paper shredded if possible, fruits and vegetables.</div><BR>No meat, d",
+                "Name": "Food Pantry Gardens at St Andrews"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.7570140112324,
+                30.35575389318791,
+                -97.7570140112324,
+                30.35575389318791
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.7570140112324,
                     30.35575389318791
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.7570140112324,
-                        30.35575389318791
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Austin Skinny Limits has buckets of fruit and veggie pulp.\u00a0 No meat or dairy, just finely shredded vegetable matter. Pineapple included so may not be suitable for worms.<BR><BR>They are bagging the materials in trash bags and setting them out by the dum",
-                    "Name": "Austin Skinny Limits"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.73535800811977,
-                    30.30061189103408,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Austin Skinny Limits has buckets of fruit and veggie pulp.\u00a0 No meat or dairy, just finely shredded vegetable matter. Pineapple included so may not be suitable for worms.<BR><BR>They are bagging the materials in trash bags and setting them out by the dum",
+                "Name": "Austin Skinny Limits"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.73535800811977,
+                30.30061189103408,
+                -97.73535800811977,
+                30.30061189103408
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.73535800811977,
                     30.30061189103408
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.73535800811977,
-                        30.30061189103408
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Paper towels from AGE offices plus coffee grounds too. These are the brown, recycled content paper towels which will break down nicely in compost systems.\u00a0 Can be shredded to speed up decomposition or as is will add air pockets and carbon to your system",
-                    "Name": "AGE of Austin"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.6684950071019,
-                    30.35009787372781,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Paper towels from AGE offices plus coffee grounds too. These are the brown, recycled content paper towels which will break down nicely in compost systems.\u00a0 Can be shredded to speed up decomposition or as is will add air pockets and carbon to your system",
+                "Name": "AGE of Austin"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.6684950071019,
+                30.35009787372781,
+                -97.6684950071019,
+                30.35009787372781
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.6684950071019,
                     30.35009787372781
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.6684950071019,
-                        30.35009787372781
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Chipped wood available from this tree service yard at 9513 Brown Lane.\u00a0 Hours are flexible, just email to make arrangements\u00a0 GBartSherman@gmail.com<BR><BR>Have front loader available to fill trailers.\u00a0 May be able to deliver large quantity for transpo",
-                    "Name": "Allandale Yard"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.72769800831783,
-                    30.264318880519927,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Chipped wood available from this tree service yard at 9513 Brown Lane.\u00a0 Hours are flexible, just email to make arrangements\u00a0 GBartSherman@gmail.com<BR><BR>Have front loader available to fill trailers.\u00a0 May be able to deliver large quantity for transpo",
+                "Name": "Allandale Yard"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.72769800831783,
+                30.264318880519927,
+                -97.72769800831783,
+                30.264318880519927
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.72769800831783,
                     30.264318880519927
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.72769800831783,
-                        30.264318880519927
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Vintage Heart Coffee offers buckets of grounds from 11AM - 10PM. \u00a0Just ask at the counter!",
-                    "Name": "Vintage Heart Coffee"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.78864301123848,
-                    30.445352881015687,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Vintage Heart Coffee offers buckets of grounds from 11AM - 10PM. \u00a0Just ask at the counter!",
+                "Name": "Vintage Heart Coffee"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.78864301123848,
+                30.445352881015687,
+                -97.78864301123848,
+                30.445352881015687
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.78864301123848,
                     30.445352881015687
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.78864301123848,
-                        30.445352881015687
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Coffee Bean &amp; Tea Leaf has bagged grounds as well as buckets for exchange<BR>Hours M-F 5am-10pm, Sat 6am-10 pm, Sun 7am-9pm",
-                    "Name": "Coffee Bean and Tea Leaf - 183/Anderson Mill"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.75720600790127,
-                    30.26262088547579,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Coffee Bean &amp; Tea Leaf has bagged grounds as well as buckets for exchange<BR>Hours M-F 5am-10pm, Sat 6am-10 pm, Sun 7am-9pm",
+                "Name": "Coffee Bean and Tea Leaf - 183/Anderson Mill"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.75720600790127,
+                30.26262088547579,
+                -97.75720600790127,
+                30.26262088547579
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.75720600790127,
                     30.26262088547579
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.75720600790127,
-                        30.26262088547579
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Coffee Bean &amp; Tea Leaf has bagged grounds as well as buckets for exchange<BR>Hours M-F 5:30am-9pm, Sat 6am-9pm, Sun 6am-8pm",
-                    "Name": "Coffee Bean and Tea Leaf - 221 S Lamar"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.88374200855728,
-                    30.38905387481948,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Coffee Bean &amp; Tea Leaf has bagged grounds as well as buckets for exchange<BR>Hours M-F 5:30am-9pm, Sat 6am-9pm, Sun 6am-8pm",
+                "Name": "Coffee Bean and Tea Leaf - 221 S Lamar"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.88374200855728,
+                30.38905387481948,
+                -97.88374200855728,
+                30.38905387481948
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.88374200855728,
                     30.38905387481948
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.88374200855728,
-                        30.38905387481948
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Coffee Bean &amp; Tea Leaf has bagged grounds as well as buckets for exchange<BR><BR>Hours M-F 5am-9pm, Sat-Sun 6am-8pm",
-                    "Name": "Coffee Bean and Tea Leaf - Steiner Ranch/Quinlan Crossing"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.86868300982601,
-                    30.200861883274065,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Coffee Bean &amp; Tea Leaf has bagged grounds as well as buckets for exchange<BR><BR>Hours M-F 5am-9pm, Sat-Sun 6am-8pm",
+                "Name": "Coffee Bean and Tea Leaf - Steiner Ranch/Quinlan Crossing"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.86868300982601,
+                30.200861883274065,
+                -97.86868300982601,
+                30.200861883274065
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.86868300982601,
                     30.200861883274065
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.86868300982601,
-                        30.200861883274065
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Coffee Bean &amp; Tea Leaf has bagged grounds as well as buckets for exchange<BR>Hours M-F 10:30am-10pm, Sat 10:30am-10 pm, Sun 10:30am-8pm Try to avoid the morning rush!",
-                    "Name": "Coffee Bean and Tea Leaf - Slaughter/Mopac"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.87898200792645,
-                    30.20298687572593,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Coffee Bean &amp; Tea Leaf has bagged grounds as well as buckets for exchange<BR>Hours M-F 10:30am-10pm, Sat 10:30am-10 pm, Sun 10:30am-8pm Try to avoid the morning rush!",
+                "Name": "Coffee Bean and Tea Leaf - Slaughter/Mopac"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.87898200792645,
+                30.20298687572593,
+                -97.87898200792645,
+                30.20298687572593
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.87898200792645,
                     30.20298687572593
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.87898200792645,
-                        30.20298687572593
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Waterloo Ice House in Circle C:<BR><BR>Come get grounds from your favorite local diner!<BR><BR>Mon - Sat 7am - Midnight, Sunday 8am - 11pm",
-                    "Name": "Waterloo Ice House - Circle C"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.7679960076462,
-                    30.21759687620178,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Waterloo Ice House in Circle C:<BR><BR>Come get grounds from your favorite local diner!<BR><BR>Mon - Sat 7am - Midnight, Sunday 8am - 11pm",
+                "Name": "Waterloo Ice House - Circle C"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.7679960076462,
+                30.21759687620178,
+                -97.7679960076462,
+                30.21759687620178
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.7679960076462,
                     30.21759687620178
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.7679960076462,
-                        30.21759687620178
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Third Coast Coffee - Ground to Ground's first Roasting Company!<BR><BR>Coffee chaff is a great mulch, chicken litter or brown for the compost.\u00a0 They also generate a couple of buckets a week of coffee grounds.\u00a0 Bring a clean bucket and exchange for one",
-                    "Name": "Third Coast Coffee Roasting Company"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.67820700732406,
-                    30.509095875913452,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Third Coast Coffee - Ground to Ground's first Roasting Company!<BR><BR>Coffee chaff is a great mulch, chicken litter or brown for the compost.\u00a0 They also generate a couple of buckets a week of coffee grounds.\u00a0 Bring a clean bucket and exchange for one",
+                "Name": "Third Coast Coffee Roasting Company"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.67820700732406,
+                30.509095875913452,
+                -97.67820700732406,
+                30.509095875913452
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.67820700732406,
                     30.509095875913452
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.67820700732406,
-                        30.509095875913452
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "<div>Spent coffee grounds available in buckets on the back porch (off the alley side) anytime during business hours. Bring your own clean 4-5gal bucket to replace the one you take.</div><BR><div>Monday-Friday 6a-9p, Sat 7a-9p, Sun 7a-7p</div><BR><div>The",
-                    "Name": "Star Co. Coffee House"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.72755300392879,
-                    30.353924876169398,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "<div>Spent coffee grounds available in buckets on the back porch (off the alley side) anytime during business hours. Bring your own clean 4-5gal bucket to replace the one you take.</div><BR><div>Monday-Friday 6a-9p, Sat 7a-9p, Sun 7a-7p</div><BR><div>The",
+                "Name": "Star Co. Coffee House"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.72755300392879,
+                30.353924876169398,
+                -97.72755300392879,
+                30.353924876169398
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.72755300392879,
                     30.353924876169398
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.72755300392879,
-                        30.353924876169398
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Genuine Joe Coffeehouse offers buckets of grounds in North Austin!<BR>Hours are M-F 7:00am - 11:00pm; Weekends 8:00am - 11:00pm. \u00a0Try to avoid rush hours when asking for grounds (unless you're buying coffee!) Pickup location is to the right of the side",
-                    "Name": "Genuine Joe Coffeehouse"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.78890701109822,
-                    30.363138881439053,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Genuine Joe Coffeehouse offers buckets of grounds in North Austin!<BR>Hours are M-F 7:00am - 11:00pm; Weekends 8:00am - 11:00pm. \u00a0Try to avoid rush hours when asking for grounds (unless you're buying coffee!) Pickup location is to the right of the side",
+                "Name": "Genuine Joe Coffeehouse"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.78890701109822,
+                30.363138881439053,
+                -97.78890701109822,
+                30.363138881439053
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.78890701109822,
                     30.363138881439053
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.78890701109822,
-                        30.363138881439053
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Waterloo Ice House on 360 is now offering grounds to customers! \u00a0Due to lack of inside space, buckets of grounds will be kept by the dumpster in the parking lot. \u00a0Make sure to return clean buckets to an employee inside!<BR><BR>Hours: \u00a0Monday-Saturday",
-                    "Name": "Waterloo Ice House - 360"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.70044000876298,
-                    30.505908879937312,
-                    -97.70044000876298,
-                    30.505908879937312
-                ],
-                "geometry": {
-                    "coordinates": [
-                        -97.70044000876298,
-                        30.505908879937312
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Hours of operation:<BR>Closed Sunday<BR>9 a.m.\u00a0to 6 p.m. Monday-Saturday<BR>Brush Recycling Center (512) 218-5559<BR>Recycling Center (512) 218-7047<BR><BR><strong>Accept:</strong> tree trimmings, branches, limbs, and other parts of shrubs and trees.<BR",
-                    "Name": "Round Rock Brush Recycling Center"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Waterloo Ice House on 360 is now offering grounds to customers! \u00a0Due to lack of inside space, buckets of grounds will be kept by the dumpster in the parking lot. \u00a0Make sure to return clean buckets to an employee inside!<BR><BR>Hours: \u00a0Monday-Saturday",
+                "Name": "Waterloo Ice House - 360"
             },
-            {
-                "bbox": [
-                    -97.70044000876298,
-                    30.505908879937312,
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.70044000876298,
+                30.505908879937312,
+                -97.70044000876298,
+                30.505908879937312
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.70044000876298,
                     30.505908879937312
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.70044000876298,
-                        30.505908879937312
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Hours of operation:<BR>Closed Sunday<BR>9 a.m.\u00a0to 6 p.m. Monday-Saturday<BR>Brush Recycling Center (512) 218-5559<BR>Recycling Center (512) 218-7047<BR>Residents within Round Rock City limits (must show a current City of Round Rock water bill and valid",
-                    "Name": "Round Rock Brush Recycling Center"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.84595500363713,
-                    30.1846058803828,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Hours of operation:<BR>Closed Sunday<BR>9 a.m.\u00a0to 6 p.m. Monday-Saturday<BR>Brush Recycling Center (512) 218-5559<BR>Recycling Center (512) 218-7047<BR><BR><strong>Accept:</strong> tree trimmings, branches, limbs, and other parts of shrubs and trees.<BR",
+                "Name": "Round Rock Brush Recycling Center"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.70044000876298,
+                30.505908879937312,
+                -97.70044000876298,
+                30.505908879937312
+            ],
+            "geometry": {
+                "coordinates": [
+                    -97.70044000876298,
+                    30.505908879937312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Hours of operation:<BR>Closed Sunday<BR>9 a.m.\u00a0to 6 p.m. Monday-Saturday<BR>Brush Recycling Center (512) 218-5559<BR>Recycling Center (512) 218-7047<BR>Residents within Round Rock City limits (must show a current City of Round Rock water bill and valid",
+                "Name": "Round Rock Brush Recycling Center"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.84595500363713,
+                30.1846058803828,
+                -97.84595500363713,
+                30.1846058803828
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.84595500363713,
                     30.1846058803828
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.84595500363713,
-                        30.1846058803828
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "The Coffee Cup offers buckets of grounds - just ask at the counter!<BR><BR>Ask for grounds at the counter any time between 4:00-6:00pm.<BR><BR>(512) 291-8591",
-                    "Name": "The Coffee Cup"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.84595500363713,
-                    30.1846058803828,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "The Coffee Cup offers buckets of grounds - just ask at the counter!<BR><BR>Ask for grounds at the counter any time between 4:00-6:00pm.<BR><BR>(512) 291-8591",
+                "Name": "The Coffee Cup"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.84595500363713,
+                30.1846058803828,
+                -97.84595500363713,
+                30.1846058803828
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.84595500363713,
                     30.1846058803828
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.84595500363713,
-                        30.1846058803828
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Wok on Fire is now offering grounds to fire up your compost pile!<BR><BR>They offer grounds from 1-7, and 8-9:45pm. \u00a0Ask at the counter!<BR><BR>(512) 291-8886<BR><BR>&nbsp;",
-                    "Name": "Wok on Fire"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.83155400491219,
-                    30.140511879477437,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Wok on Fire is now offering grounds to fire up your compost pile!<BR><BR>They offer grounds from 1-7, and 8-9:45pm. \u00a0Ask at the counter!<BR><BR>(512) 291-8886<BR><BR>&nbsp;",
+                "Name": "Wok on Fire"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.83155400491219,
+                30.140511879477437,
+                -97.83155400491219,
+                30.140511879477437
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.83155400491219,
                     30.140511879477437
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.83155400491219,
-                        30.140511879477437
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Manchaca Eco-Faith Initiative Community Garden is accepting coffee grounds.<BR><BR>&nbsp;",
-                    "Name": "Manchaca Eco-Faith Initiative Community Garden"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.50083000466408,
-                    30.087160876107344,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Manchaca Eco-Faith Initiative Community Garden is accepting coffee grounds.<BR><BR>&nbsp;",
+                "Name": "Manchaca Eco-Faith Initiative Community Garden"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.50083000466408,
+                30.087160876107344,
+                -97.50083000466408,
+                30.087160876107344
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.50083000466408,
                     30.087160876107344
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.50083000466408,
-                        30.087160876107344
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Accepts vegetable matter only - please no meat or cattle or horse manures<BR><BR>Call Jim at 512.914.8261 for address and details",
-                    "Name": "Talbot property"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.82176700747723,
-                    30.236136880501114,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Accepts vegetable matter only - please no meat or cattle or horse manures<BR><BR>Call Jim at 512.914.8261 for address and details",
+                "Name": "Talbot property"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.82176700747723,
+                30.236136880501114,
+                -97.82176700747723,
+                30.236136880501114
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.82176700747723,
                     30.236136880501114
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.82176700747723,
-                        30.236136880501114
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "The newest Coffee Bean &amp; Tea Leaf!Stop by to welcome them to the neighborhood and pick up coffee grounds for your garden.",
-                    "Name": "Coffee Bean and Tea Leaf - 290W"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.7283280083564,
-                    30.32368388127654,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "The newest Coffee Bean &amp; Tea Leaf!Stop by to welcome them to the neighborhood and pick up coffee grounds for your garden.",
+                "Name": "Coffee Bean and Tea Leaf - 290W"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.7283280083564,
+                30.32368388127654,
+                -97.7283280083564,
+                30.32368388127654
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.7283280083564,
                     30.32368388127654
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.7283280083564,
-                        30.32368388127654
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "McDonald's open 5am-11pm.<BR><BR>Stop by for lots of buckets or bags of grounds",
-                    "Name": "McDonald's - 5516 N Lamar"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.69797900409395,
-                    30.261924869908274,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "McDonald's open 5am-11pm.<BR><BR>Stop by for lots of buckets or bags of grounds",
+                "Name": "McDonald's - 5516 N Lamar"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.69797900409395,
+                30.261924869908274,
+                -97.69797900409395,
+                30.261924869908274
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.69797900409395,
                     30.261924869908274
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.69797900409395,
-                        30.261924869908274
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Wood shop produces bags of untreated wood chips/sawdust.\u00a0 Great for animal bedding, mulch, and composting.\u00a0\u00a0 Email John @<a title=\"mailto:john@redriverrestorations.com\" href=\"mailto:john@redriverrestorations.com\" target=\"_blank\">redriverrestorations.c",
-                    "Name": "Saw dust/ wood chips"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.77646301303929,
-                    30.444374875103065,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Wood shop produces bags of untreated wood chips/sawdust.\u00a0 Great for animal bedding, mulch, and composting.\u00a0\u00a0 Email John @<a title=\"mailto:john@redriverrestorations.com\" href=\"mailto:john@redriverrestorations.com\" target=\"_blank\">redriverrestorations.c",
+                "Name": "Saw dust/ wood chips"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.77646301303929,
+                30.444374875103065,
+                -97.77646301303929,
+                30.444374875103065
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.77646301303929,
                     30.444374875103065
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.77646301303929,
-                        30.444374875103065
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Asplundh is located at 13131 Pond Springs Rd. They have a big hill of mulch from all the trees they take down. You can just drive in (before 3pm on weekdays) and load up to a truckload.",
-                    "Name": "Asplundh Tree Expert Co."
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.65223000457566,
-                    30.548728870469322,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Asplundh is located at 13131 Pond Springs Rd. They have a big hill of mulch from all the trees they take down. You can just drive in (before 3pm on weekdays) and load up to a truckload.",
+                "Name": "Asplundh Tree Expert Co."
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.65223000457566,
+                30.548728870469322,
+                -97.65223000457566,
+                30.548728870469322
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.65223000457566,
                     30.548728870469322
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.65223000457566,
-                        30.548728870469322
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Free Manure\u00a0 - They provide Bags, Etc., So Bring Gloves And A Bandana! You Scoop)! ;-)<BR><BR>Location: Northwest corner of North A W Grimes Blvd. (FM 1460 also known as Old Georgetown Road) and FM 3406 (which is Exit 254 on I-H 35 turning East) also kn",
-                    "Name": "Manure - ALL Animals Rescue and Sanctuary"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.74151500547806,
-                    30.31582486667168,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Free Manure\u00a0 - They provide Bags, Etc., So Bring Gloves And A Bandana! You Scoop)! ;-)<BR><BR>Location: Northwest corner of North A W Grimes Blvd. (FM 1460 also known as Old Georgetown Road) and FM 3406 (which is Exit 254 on I-H 35 turning East) also kn",
+                "Name": "Manure - ALL Animals Rescue and Sanctuary"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.74151500547806,
+                30.31582486667168,
+                -97.74151500547806,
+                30.31582486667168
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.74151500547806,
                     30.31582486667168
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.74151500547806,
-                        30.31582486667168
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Don't want to mess with buckets? \u00a0Uppercrust Bakery offers big bags of grounds!<BR><BR>M-W 6:30am - 5:00pm<BR><BR>Th-Fri 6:30am-6:00pm<BR><BR>Sat 7:00am - 5:00pm<BR><BR>Sun 7:00am - 1:00pm",
-                    "Name": "Upper Crust Bakery"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.7679960076462,
-                    30.21759687620178,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Don't want to mess with buckets? \u00a0Uppercrust Bakery offers big bags of grounds!<BR><BR>M-W 6:30am - 5:00pm<BR><BR>Th-Fri 6:30am-6:00pm<BR><BR>Sat 7:00am - 5:00pm<BR><BR>Sun 7:00am - 1:00pm",
+                "Name": "Upper Crust Bakery"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.7679960076462,
+                30.21759687620178,
+                -97.7679960076462,
+                30.21759687620178
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.7679960076462,
                     30.21759687620178
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.7679960076462,
-                        30.21759687620178
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Third Coast Coffee Roasting Company has TONS of grounds to give away... from fresh-roasted beans! \u00a0They also give away chaff, the drier fibrous husk of the coffee bean, by the bag. \u00a0Just ask at the coffee shop counter.<BR><BR>Monday, Tuesday, Thursday,",
-                    "Name": "Third Coast Coffee Roasting Company"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.72653300532137,
-                    30.304314890017288,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Third Coast Coffee Roasting Company has TONS of grounds to give away... from fresh-roasted beans! \u00a0They also give away chaff, the drier fibrous husk of the coffee bean, by the bag. \u00a0Just ask at the coffee shop counter.<BR><BR>Monday, Tuesday, Thursday,",
+                "Name": "Third Coast Coffee Roasting Company"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.72653300532137,
+                30.304314890017288,
+                -97.72653300532137,
+                30.304314890017288
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.72653300532137,
                     30.304314890017288
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.72653300532137,
-                        30.304314890017288
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "As their name suggests, Dolce Vita has some of the sweetest grounds in town!<BR><BR>Bring in an empty bucket to receive one full of grounds.<BR><BR>Monday - Friday: 6:30am - Midnight<BR><BR>Saturday &amp; Sunday: 8:00am - Midnight",
-                    "Name": "Dolce Vita"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.73369900792912,
-                    30.31479486660258,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "As their name suggests, Dolce Vita has some of the sweetest grounds in town!<BR><BR>Bring in an empty bucket to receive one full of grounds.<BR><BR>Monday - Friday: 6:30am - Midnight<BR><BR>Saturday &amp; Sunday: 8:00am - Midnight",
+                "Name": "Dolce Vita"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.73369900792912,
+                30.31479486660258,
+                -97.73369900792912,
+                30.31479486660258
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.73369900792912,
                     30.31479486660258
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.73369900792912,
-                        30.31479486660258
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Galaxy Cafe produces a couple of buckets of grounds a week.\u00a0 Stop by for breakfast, lunch, happy hour or dinner and while you're there trade out a clean Ground to Ground bucket for one full of spent grounds.<BR><BR>Open 7am to 10pm every day",
-                    "Name": "Galaxy Cafe at the Triangle"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.67558700859446,
-                    30.360535882826294,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Galaxy Cafe produces a couple of buckets of grounds a week.\u00a0 Stop by for breakfast, lunch, happy hour or dinner and while you're there trade out a clean Ground to Ground bucket for one full of spent grounds.<BR><BR>Open 7am to 10pm every day",
+                "Name": "Galaxy Cafe at the Triangle"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.67558700859446,
+                30.360535882826294,
+                -97.67558700859446,
+                30.360535882826294
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.67558700859446,
                     30.360535882826294
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.67558700859446,
-                        30.360535882826294
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Feed chickens and compost!<BR><BR>Drop off food scraps including meat, egg shells, bread, fruit, and vegetable scraps; any type of plant material (healthy - no disease). Would also love to have your leaves or shredded paper. Drop off food in secure plast",
-                    "Name": "Joseph's Place"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.7584730131265,
-                    30.244015867474197,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Feed chickens and compost!<BR><BR>Drop off food scraps including meat, egg shells, bread, fruit, and vegetable scraps; any type of plant material (healthy - no disease). Would also love to have your leaves or shredded paper. Drop off food in secure plast",
+                "Name": "Joseph's Place"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.7584730131265,
+                30.244015867474197,
+                -97.7584730131265,
+                30.244015867474197
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.7584730131265,
                     30.244015867474197
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.7584730131265,
-                        30.244015867474197
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Fair Bean Coffee brings in tasty, responsibly sourced beans from around the world, and roasts them in-house. \u00a0They also serve \"red espresso\" and have a full kitchen!<BR><BR>6:30am - 7:00pm Sun - Wed<BR><BR>6:30am - 8:00pm Thurs - Sat<BR><BR>512-444-BEAN",
-                    "Name": "Fair Bean Coffee"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.72874801092836,
-                    30.262001888725617,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Fair Bean Coffee brings in tasty, responsibly sourced beans from around the world, and roasts them in-house. \u00a0They also serve \"red espresso\" and have a full kitchen!<BR><BR>6:30am - 7:00pm Sun - Wed<BR><BR>6:30am - 8:00pm Thurs - Sat<BR><BR>512-444-BEAN",
+                "Name": "Fair Bean Coffee"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.72874801092836,
+                30.262001888725617,
+                -97.72874801092836,
+                30.262001888725617
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.72874801092836,
                     30.262001888725617
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.72874801092836,
-                        30.262001888725617
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "<strong><span style=\"font-size: medium; font-family: times new roman,times;\">Texas Coffee Traders</span></strong><BR><div><BR><div><address><span style=\"font-family: times new roman,times; font-size: medium;\">Monday - Friday 8 a.m. - 5 p.m.</span></addre",
-                    "Name": "Texas Coffee Traders"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.72024800560055,
-                    30.28434888032112,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "<strong><span style=\"font-size: medium; font-family: times new roman,times;\">Texas Coffee Traders</span></strong><BR><div><BR><div><address><span style=\"font-family: times new roman,times; font-size: medium;\">Monday - Friday 8 a.m. - 5 p.m.</span></addre",
+                "Name": "Texas Coffee Traders"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.72024800560055,
+                30.28434888032112,
+                -97.72024800560055,
+                30.28434888032112
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.72024800560055,
                     30.28434888032112
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.72024800560055,
-                        30.28434888032112
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "<h3><strong>Hoover\u2019s Cooking</strong></h3><BR>2002 Manor Road<BR>Austin, TX 78722<BR>Phone: (512) 479-5006<BR>Fax: (512) 479-0889<BR><BR>Monday through Friday\u2026\u2026\u2026..11 a.m. \u2013 10 p.m.<BR>Saturday &amp; Sunday\u2026\u2026\u2026\u2026\u2026.8 a.m \u2013 10 p.m.<BR><B",
-                    "Name": "Hoover/'s Cooking"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.83176400734399,
-                    30.296525868074987,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "<h3><strong>Hoover\u2019s Cooking</strong></h3><BR>2002 Manor Road<BR>Austin, TX 78722<BR>Phone: (512) 479-5006<BR>Fax: (512) 479-0889<BR><BR>Monday through Friday\u2026\u2026\u2026..11 a.m. \u2013 10 p.m.<BR>Saturday &amp; Sunday\u2026\u2026\u2026\u2026\u2026.8 a.m \u2013 10 p.m.<BR><B",
+                "Name": "Hoover/'s Cooking"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.83176400734399,
+                30.296525868074987,
+                -97.83176400734399,
+                30.296525868074987
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.83176400734399,
                     30.296525868074987
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.83176400734399,
-                        30.296525868074987
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Lola Savannah Coffee Lounge<BR><BR>Monday \u2013 Friday open at 6 a.m. and Saturday \u2013 Sunday open at 7 a.m.<BR><BR>Stop by and visit us. We have a feeling our ambiance will charm you and the quality of our coffee drinks will keep you coming back.\u00a0 Bucket",
-                    "Name": "Lola Savannah"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.83668100793047,
-                    30.22299987922968,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Lola Savannah Coffee Lounge<BR><BR>Monday \u2013 Friday open at 6 a.m. and Saturday \u2013 Sunday open at 7 a.m.<BR><BR>Stop by and visit us. We have a feeling our ambiance will charm you and the quality of our coffee drinks will keep you coming back.\u00a0 Bucket",
+                "Name": "Lola Savannah"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.83668100793047,
+                30.22299987922968,
+                -97.83668100793047,
+                30.22299987922968
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.83668100793047,
                     30.22299987922968
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.83668100793047,
-                        30.22299987922968
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "Starbucks in the West Creek Shopping Center<BR>Mopac at William Cannon has bagged grounds by the door.\u00a0 Hours 5am-10pm daily",
-                    "Name": "Starbucks - Mopac at Wm Cannon"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "bbox": [
-                    -97.74215100769221,
-                    30.268568866951412,
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "Starbucks in the West Creek Shopping Center<BR>Mopac at William Cannon has bagged grounds by the door.\u00a0 Hours 5am-10pm daily",
+                "Name": "Starbucks - Mopac at Wm Cannon"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.74215100769221,
+                30.268568866951412,
+                -97.74215100769221,
+                30.268568866951412
+            ],
+            "geometry": {
+                "coordinates": [
                     -97.74215100769221,
                     30.268568866951412
                 ],
-                "geometry": {
-                    "coordinates": [
-                        -97.74215100769221,
-                        30.268568866951412
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Resource",
-                    "CategoryId": 10,
-                    "Description": "The Hideout is downtown Austin\u2019s oldest independent coffee house. Open morning to night, weekdays and weekends and serve beer, wine, fresh sandwiches, pastries, ice cream, as\u00a0well as an assortment of beverages and coffee drinks and now coffee grounds",
-                    "Name": "The Hideout Coffeehouse"
-                },
-                "type": "Feature"
-            }
-        ],
-        [
-            {
-                "geometry": {
-                    "coordinates": [
-                        -105.9834476631037,
-                        3.442399734511329
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Farmer's Market",
-                    "CategoryId": 7,
-                    "Name": "Mueller Farmers' Market"
-                },
-                "type": "Feature"
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -105.98344730142819,
-                        3.442399862432805
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Farmer's Market",
-                    "CategoryId": 7,
-                    "Name": "The Gardener's Feast"
-                },
-                "type": "Feature"
+            "properties": {
+                "Category": "Resource",
+                "CategoryId": 10,
+                "Description": "The Hideout is downtown Austin\u2019s oldest independent coffee house. Open morning to night, weekdays and weekends and serve beer, wine, fresh sandwiches, pastries, ice cream, as\u00a0well as an assortment of beverages and coffee drinks and now coffee grounds",
+                "Name": "The Hideout Coffeehouse"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -105.9834477585648,
-                        3.442399659119829
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Farmer's Market",
-                    "CategoryId": 7,
-                    "Name": "SFC Farmers' Market-Downtown"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.707474,
+                30.296825,
+                -97.707474,
+                30.296825
+            ],
+            "geometry": {
+                "coordinates": [
+                    -97.707474,
+                    30.296825
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -105.9834477082137,
-                        3.442399648668781
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Farmer's Market",
-                    "CategoryId": 7,
-                    "Name": "HOPE Farmers Market"
-                },
-                "type": "Feature"
+            "properties": {
+                "Address": "2007 Mueller Central Dr, Austin, TX 78723",
+                "Category": "Farmer's Market",
+                "CategoryId": 7,
+                "Lat": 30.296825,
+                "Long": -97.707474,
+                "Name": "Mueller Farmers Market"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -105.9834479009678,
-                        3.442399560209451
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Farmer's Market",
-                    "CategoryId": 7,
-                    "Name": "SFC Farmers Market at Sunset Valley"
-                },
-                "type": "Feature"
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.557115,
+                30.340676,
+                -97.557115,
+                30.340676
+            ],
+            "geometry": {
+                "coordinates": [
+                    -97.557115,
+                    30.340676
+                ],
+                "type": "Point"
             },
-            {
-                "geometry": {
-                    "coordinates": [
-                        -105.98344773095353,
-                        3.442399775461912
-                    ],
-                    "type": "Point"
-                },
-                "properties": {
-                    "Category": "Farmer's Market",
-                    "CategoryId": 7,
-                    "Name": "SFC Farmers Market The Triangle"
-                },
-                "type": "Feature"
-            }
-        ]
+            "properties": {
+                "Address": "114 E Parsons Street, Manor, TX 78731",
+                "Category": "Farmer's Market",
+                "CategoryId": 7,
+                "Lat": 30.340676,
+                "Long": -97.557115,
+                "Name": "The Gardeners Feast"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.746928,
+                30.267405,
+                -97.746928,
+                30.267405
+            ],
+            "geometry": {
+                "coordinates": [
+                    -97.746928,
+                    30.267405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Address": "422 Guadalupe St, Austin, TX 78701",
+                "Category": "Farmer's Market",
+                "CategoryId": 7,
+                "Lat": 30.267405,
+                "Long": -97.746928,
+                "Name": "SFC Farmers Market Downtown"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.727242,
+                30.261929,
+                -97.727242,
+                30.261929
+            ],
+            "geometry": {
+                "coordinates": [
+                    -97.727242,
+                    30.261929
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Address": "412 Comal St, Austin, TX 78702",
+                "Category": "Farmer's Market",
+                "CategoryId": 7,
+                "Lat": 30.261929,
+                "Long": -97.727242,
+                "Name": "HOPE Farmers Market"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.808758,
+                30.229686,
+                -97.808758,
+                30.229686
+            ],
+            "geometry": {
+                "coordinates": [
+                    -97.808758,
+                    30.229686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Address": "3200 Jones Rd, Sunset Valley, TX 78745",
+                "Category": "Farmer's Market",
+                "CategoryId": 7,
+                "Lat": 30.229686,
+                "Long": -97.808758,
+                "Name": "SFC Farmers Market Sunset Valley"
+            },
+            "type": "Feature"
+        },
+        {
+            "bbox": [
+                -97.732895,
+                30.314155,
+                -97.732895,
+                30.314155
+            ],
+            "geometry": {
+                "coordinates": [
+                    -97.732895,
+                    30.314155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "Address": "4600 Guadalupe St, Austin, TX 78751",
+                "Category": "Farmer's Market",
+                "CategoryId": 7,
+                "Lat": 30.314155,
+                "Long": -97.732895,
+                "Name": "SFC Farmers Market The Triangle"
+            },
+            "type": "Feature"
+        }
     ],
     "type": "FeatureCollection"
 }
