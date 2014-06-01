@@ -12,6 +12,10 @@ body, html {
   width: 100%;
 }
 
+.header-img {
+  width: 260px;
+}
+
 .main-nav {
   margin-top: 20px;
 }
@@ -76,6 +80,23 @@ body, html {
 .map-overlay-control.ng-hide-add {
   -webkit-animation-name: slideOutLeft;
   animation-name: slideOutLeft;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 0;
+}
+
+.project-popup > h4 {
+  font-size: 16px;
+}
+
+.project-popup > p {
+  font-size: 13px;
+  margin: 4px 0;
+}
+
+.project-popup small {
+  text-transform: uppercase;
 }
 
 #map {

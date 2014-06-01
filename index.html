@@ -29,7 +29,7 @@
   <div class="container">
     <div class="row page-header">
       <div class="col-sm-8">
-        <img src="http://www.urbanpatchwork.org/wp-content/uploads/2014/02/UP-Logo-Web-TAG.jpg" />
+        <img src="/img/patchwork_logo.png" class="header-img" />
       </div>
       <div class="pull-right">
         <ul class="nav nav-pills main-nav">
@@ -66,6 +66,18 @@
   </div>
 
   <div class="container">
+    <div class="row">
+      <div class="col-sm-8">
+        <ul class="project-list">
+          <li ng-repeat="proj in currentProjects">   
+              <h4>{{proj.Name}}</h4>
+              <p><small>{{proj.Category}}</small></p>
+              <p>{{proj.Description}}</p>
+              <p><a href="#"><i class="fa fa-info-circle"></i> Project Page</a></p>
+          </li>
+        </ul>
+      </div>
+    </div>
     <footer>
 
     </footer>
@@ -76,9 +88,11 @@
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular-animate.min.js"></script>
   <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-  <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+
   <script src="/js/leaflet.js"></script>
+  <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
   <script src="/js/Leaflet.MakiMarkers.js"></script>
+  
   <script src="/js/main-map.js"></script>
 </body>
 </html>
