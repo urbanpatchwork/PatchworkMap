@@ -5,8 +5,11 @@
 
   var CATEGORIES_URL = '/mocks/categories.json';
   var PROJECTS_URL = '/mocks/projects.geojson';
+  var PROJECT_PAGE_URL_TPL = "/project/{id}";
 
   // *********************************************************
+
+  L.Icon.Default.imagePath = "/css/images";
 
   var map = L.map('map', {
     zoomControl: false
@@ -36,7 +39,7 @@
       //options.categoryIds - specific category ids to filter
       var deferred = $q.defer();
       $http.get(PROJECTS_URL)
-        .success(function(results) {
+        .success(function (results) {
           //TODO: filter based on categoryIds
           // and selectedArea
           deferred.resolve(results);
@@ -51,11 +54,16 @@
 
   // *********************************************************
 
-  app.factory('CategoryService', function ($http) {
+  app.factory('CategoryService', function ($http, $q) {
     var service = {};
 
     service.fetch = function() {
-      return $http.get(CATEGORIES_URL)
+      var deferred = $q.defer();
+      $http.get(CATEGORIES_URL)
+        .success(function (results) {
+          deferred.resolve(results);
+        });
+      return deferred.promise;
     };
 
     return service;
@@ -64,6 +72,16 @@
 
   // *********************************************************
 
+  var projectPopup = function(props) {
+    var html = [];
+    html.push("<div class='project-popup'>");
+    html.push("<h4>" + props.Name + "</h4>");
+    //TODO
+    html.push("</div>");
+
+    return html.join('');
+  };
+
   app.controller('MapCtrl', function ($scope, ProjectService, CategoryService) {
     $scope.showCategories = false;
     $scope.selectedArea = null; //ZIPCode or point-radius
@@ -71,11 +89,14 @@
     $scope.categories = []; //all valid categories
     $scope.selectedCategories = []; //only selected categories
 
+    //variable to hold projects layer
+    var projectsLayer = L.geoJson().addTo(map);
+
     map.invalidateSize(false); //must call because of ng-cloak
 
     //retrieve all the valid categoies
     CategoryService.fetch()
-      .success(function (cats) {
+      .then(function (cats) {
         //default to all set to isSelected
         _.each(cats, function (c) { c.isSelected = true; });
 
@@ -85,7 +106,20 @@
 
 
 
-    ProjectService.fetch();
+    ProjectService.fetch()
+      .then(function (projectFeatures) {
+        projectsLayer.clearLayers();
+        projectsLayer.addData(projectFeatures);
+        var icon = L.MakiMarkers.icon({icon: "farm", color: "#5cb85c"});
+        projectsLayer.eachLayer(function (lyr) {
+          if (lyr.setIcon) {
+            lyr.setIcon(icon);
+          }
+
+          lyr.bindPopup(projectPopup(lyr.feature.properties));
+        });
+        map.fitBounds(projectsLayer.getBounds());
+      });
 
 
 

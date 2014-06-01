@@ -9,6 +9,8 @@
 
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
+  <link href='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
 
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/animate.css">
@@ -50,6 +52,7 @@
 
     <div class="map-wrap">
       <div class="categories-list map-overlay-control animated" ng-show="showCategories">
+        <h4>Project Categories</h4>
         <ul>
           <li ng-repeat="cat in categories" class="category-item">
             <a href="" ng-click="toggleCategory(cat)">
@@ -73,7 +76,9 @@
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular-animate.min.js"></script>
   <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
   <script src="/js/leaflet.js"></script>
+  <script src="/js/Leaflet.MakiMarkers.js"></script>
   <script src="/js/main-map.js"></script>
 </body>
 </html>
