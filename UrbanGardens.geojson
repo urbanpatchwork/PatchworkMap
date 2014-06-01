@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 1",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.72338867187499,
+          30.321618681609568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 2",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.68733978271484,
+          30.294646395871705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 3",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6845932006836,
+          30.263218773598812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 4",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6962661743164,
+          30.351842528864772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 5",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.75943756103516,
+          30.190837717688126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 6",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.77557373046875,
+          30.307096065407638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 7",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7175521850586,
+          30.295535710404852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 8",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.79239654541016,
+          30.237713497892063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 9",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.76424407958984,
+          30.21220160244795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 10",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.70347595214844,
+          30.204784112378757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 11",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.72201538085938,
+          30.27122487796014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 12",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.75737762451172,
+          30.288717426233095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thing 13",
+        "Description": "laskdjfakdsl",
+        "Category": "Urban Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.75531768798828,
+          30.252542952311483
+        ]
+      }
+    }
+  ]
+}
