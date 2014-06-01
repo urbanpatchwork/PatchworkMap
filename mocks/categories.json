@@ -1,0 +1,10 @@
+[
+  {"id": 1, "name": "Community Garden"},
+  {"id": 2, "name": "Collaborative Garden"},
+  {"id": 3, "name": "Market Garden"},
+  {"id": 4, "name": "School Garden"},
+  {"id": 5, "name": "Teaching/Education Garden"},
+  {"id": 6, "name": "Farm Stand"},
+  {"id": 7, "name": "Farmers Market"},
+  {"id": 8, "name": "Forage Location"}
+]
