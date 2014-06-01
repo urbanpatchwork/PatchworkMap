@@ -50,14 +50,26 @@
 
     var _projectsCache;
 
+    var filterProjects = function(projects, categoryIds) {
+
+      var filteredFeatures = _.where(projects.features, function(p) {
+        return _.contains(categoryIds, p.properties.CategoryId); 
+      });
+
+      return {
+        type: 'FeatureCollection',
+        features: filteredFeatures
+      }
+    }
+
+
     service.fetch = function(options) {
       //options.selectedArea - {point, radius}
       //options.categoryIds - specific category ids to filter
       var deferred = $q.defer();
-      
       if (_projectsCache) {
         //TODO: filtering
-        deferred.resolve(_projectsCache);
+        deferred.resolve(filterProjects(_projectsCache, options.categoryIds));
       }
       else {
         $http.get(PROJECTS_URL)
@@ -65,7 +77,7 @@
             //TODO: filter based on categoryIds
             // and selectedArea
             _projectsCache = results;
-            deferred.resolve(results);
+            deferred.resolve(filterProjects(_projectsCache, options.categoryIds));
           });
       }
       return deferred.promise;
@@ -174,15 +186,12 @@
         return;
       }
 
-      var selectedCats = _.where($scope.categories, {isSelected: true});
+      var selectedCats = _.pluck(_.where($scope.categories, {isSelected: true}), 'id');
       angular.copy(selectedCats, $scope.selectedCategories);
     }, true);
 
     $scope.$watch('selectedCategories', function() {
-      console.log('TODO: Fetch projects, update currentProjects list');
-      console.log('  -- selectedCategories', $scope.selectedCategories);
-
-      ProjectService.fetch()
+      ProjectService.fetch({categoryIds: $scope.selectedCategories})
         .then(updateProjectFeatures);
 
     }, true);
