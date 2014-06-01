@@ -28,7 +28,7 @@
   //variable to hold projects layer
   var projectsLayer = new L.MarkerClusterGroup({
     showCoverageOnHover: false,
-    maxClusterRadius: 60
+    maxClusterRadius: 30
   });
   projectsLayer.addTo(map);
 
