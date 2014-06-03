@@ -112,7 +112,9 @@
     html.push("<div class='project-popup'>");
     html.push("<p><small>" + props.Category + "</small></p>");
     html.push("<h4>" + props.Name + "</h4>");
-    html.push("<p>" + props.Description + "</p>");
+    if (props.Description) {
+      html.push("<p>" + props.Description + "</p>");
+    }
     html.push("<p><a href='#'><i class='fa fa-info-circle'></i> Project Page</a></p>");
     html.push("</div>");
 
