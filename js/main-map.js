@@ -28,8 +28,7 @@
   L.tileLayer(
     'https://{s}.tiles.mapbox.com/v3/jseppi.id24pohb/{z}/{x}/{y}.png', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,' +
-      '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>.' +
-      'Tiles courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a>'
+      '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>.'
   }).addTo(map);
 
 
